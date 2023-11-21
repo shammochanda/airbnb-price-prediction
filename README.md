@@ -13,4 +13,10 @@
   - Diagrams and analyses are presented with a logical flow meant for easy consumption of data for subsequent business-side use
   - To view code that may have been cut off in Github's view of the notebook, the notebook can be viewed here with the Google Colaboratory application on Google Drive: https://colab.research.google.com/drive/1O9mfpqny8TxoV8rs0_bLlRlqcKQobZG8?usp=sharing
 
+### airbnb_plotly_viz.ipynb:
+  - This notebook is only for dynamic plotly visuals of European AirBnBs
+  - Created to avoid clutter in european_airbnb_price_analysis.ipynb notebook
+  - Dynamic Plotly Visuals can only be viewed using nbviewer
+  - Link to nbviewer here
+
 Dataset obtained from Kaggle: https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
